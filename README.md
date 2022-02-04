@@ -1,4 +1,4 @@
-# HW2 Simple Key-value Store
+# Key-value Store
 
 ## Directories
 - /server ->	server program related sources
